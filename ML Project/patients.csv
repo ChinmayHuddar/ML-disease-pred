@@ -1,0 +1,350 @@
+Patient_ID,DateVisited,Age,Gender,Weight,Height ,Overall Physical Activity,Disease,Body Temperature (F),Blood Pressure (mmHg),Cholesterol Level (mg/dl),Cough,Fatigue,Difficulty Breathing,Physical Pain Severity,Outcome Variable
+MLMP0001,02-01-2018,38,Male,75,164,2,Gastroenteritis,102.2,112/74,190,No,No,No,8,Negative
+MLMP0002,02-01-2018,56,Male,60,173,3,Influenza,102.8,108/75,216,Yes,Yes,Yes,7,Positive
+MLMP0003,04-01-2018,42,Male,46,180,1,Liver Cancer,100.3,105/79,349,No,Yes,Yes,3,Negative
+MLMP0004,16-01-2018,39,Female,81,181,2,Klinefelter Syndrome,99.5,105/72,206,No,Yes,No,4,Positive
+MLMP0005,16-01-2018,65,Female,72,166,2,Chronic Obstructive Pulmonary Disease (COPD),101.8,150/95,199,No,Yes,Yes,2,Positive
+MLMP0006,31-01-2018,35,Male,86,172,2,Asthma,100.3,111/72,292,Yes,No,Yes,6,Positive
+MLMP0007,31-01-2018,25,Female,85,172,3,Eczema,98.5,116/78,201,Yes,Yes,No,3,Negative
+MLMP0008,31-01-2018,45,Female,52,181,5,Zika Virus,102.4,155/105 ,345,Yes,Yes,No,4,Negative
+MLMP0009,01-02-2018,45,Male,91,178,1,Kidney Disease,99.7,109/77,277,Yes,No,No,7,Negative
+MLMP0010,22-02-2018,38,Female,64,158,3,Osteoporosis,101.1,110/77,182,Yes,No,No,2,Negative
+MLMP0011,26-02-2018,45,Male,59,156,3,Diabetes,99.5,111/74,341,Yes,Yes,No,4,Positive
+MLMP0012,04-03-2018,30,Female,75,176,5,Cerebral Palsy,99.6,113/76,218,No,Yes,Yes,7,Positive
+MLMP0013,17-03-2018,40,Male,77,167,1,Hyperthyroidism,102.1,118/75,212,No,Yes,No,9,Positive
+MLMP0014,21-03-2018,65,Male,79,166,2,Alzheimer's Disease,102,115/72,343,Yes,No,No,5,Positive
+MLMP0015,25-03-2018,35,Male,99,186,1,Hyperthyroidism,98.4,110/70,181,Yes,Yes,No,0,Positive
+MLMP0016,03-04-2018,42,Female,77,167,5,Hypothyroidism,98.2,114/78,208,Yes,Yes,No,6,Positive
+MLMP0017,07-04-2018,42,Female,51,151,5,Kidney Disease,100.8,104/73,199,No,Yes,No,5,Positive
+MLMP0018,10-04-2018,30,Male,56,173,4,Eczema,102.7,117/73,181,No,No,No,0,Positive
+MLMP0019,13-04-2018,40,Female,72,157,2,Asthma,101.8,106/69,182,Yes,No,Yes,4,Positive
+MLMP0020,14-04-2018,30,Female,61,161,2,Ulcerative Colitis,103.4,106/69,187,Yes,No,No,8,Negative
+MLMP0021,21-04-2018,48,Male,55,151,1,Hypothyroidism,100.8,113/76,183,No,Yes,No,0,Negative
+MLMP0022,23-04-2018,60,Female,51,180,1,Hemophilia,98.5,117/77,216,No,Yes,No,9,Positive
+MLMP0023,27-04-2018,40,Male,46,161,3,Chickenpox,103.2,112/78,197,Yes,No,No,1,Positive
+MLMP0024,03-05-2018,31,Male,65,177,5,Osteoporosis,99.9,116/78,212,No,No,Yes,1,Negative
+MLMP0025,04-05-2018,60,Female,54,165,2,Chronic Kidney Disease,98.3,110/70,189,No,Yes,No,4,Positive
+MLMP0026,15-05-2018,52,Male,79,172,3,Hypertension,100.5,112/78,206,Yes,No,No,4,Negative
+MLMP0027,25-05-2018,42,Female,74,179,3,Kidney Cancer,100.6,107/76,192,No,No,No,9,Negative
+MLMP0028,27-05-2018,50,Male,41,159,2,Anemia,101,117/77,208,No,Yes,No,7,Negative
+MLMP0029,28-05-2018,40,Female,61,176,3,Asthma,102.3,111/74,181,Yes,No,Yes,9,Positive
+MLMP0030,29-05-2018,45,Male,54,183,4,Rheumatoid Arthritis,101.5,118/79,215,No,No,No,8,Negative
+MLMP0031,02-06-2018,65,Male,72,167,2,Bladder Cancer,103.7,106/74,194,No,Yes,No,1,Negative
+MLMP0032,02-06-2018,30,Female,67,168,1,Colorectal Cancer,103.3,105/79,183,No,Yes,No,10,Positive
+MLMP0033,06-06-2018,60,Female,56,175,1,Thyroid Cancer,101.3,110/75,207,No,Yes,No,2,Positive
+MLMP0034,06-06-2018,45,Male,63,168,4,Crohn's Disease,102.1,109/71,341,No,Yes,No,9,Negative
+MLMP0035,08-06-2018,50,Male,77,165,1,Endometriosis,99.6,106/69,218,No,No,No,1,Negative
+MLMP0036,09-06-2018,50,Female,81,166,3,Pancreatic Cancer,103,115/71,261,No,Yes,No,5,Positive
+MLMP0037,19-06-2018,45,Female,92,178,4,Sickle Cell Anemia,102.9,105/72,219,No,Yes,No,4,Positive
+MLMP0038,20-06-2018,45,Male,65,150,3,Ovarian Cancer,103.4,114/71,345,No,Yes,No,2,Negative
+MLMP0039,20-06-2018,55,Male,71,171,2,Appendicitis,99.8,110/70,194,No,Yes,No,0,Negative
+MLMP0040,23-06-2018,70,Female,65,169,2,Alzheimer's Disease,101,112/78,198,No,Yes,No,6,Negative
+MLMP0041,03-07-2018,29,Female,52,179,5,Stroke,99.7,111/73,189,Yes,Yes,Yes,6,Positive
+MLMP0042,06-07-2018,65,Male,78,167,4,Urinary Tract Infection (UTI),101.8,109/71,257,No,Yes,No,1,Negative
+MLMP0043,07-07-2018,50,Female,82,172,1,Asthma,101.6,105/79,201,Yes,Yes,Yes,5,Positive
+MLMP0044,21-07-2018,25,Female,89,175,3,Influenza,98.9,107/70,189,Yes,Yes,Yes,2,Positive
+MLMP0045,02-08-2018,40,Male,80,167,2,Glaucoma,104,113/79,209,No,Yes,No,1,Negative
+MLMP0046,10-08-2018,70,Male,62,150,3,Osteoporosis,101.3,106/74,349,No,No,No,9,Negative
+MLMP0047,16-08-2018,50,Female,52,168,4,Gastroenteritis,102.6,118/75,197,Yes,Yes,Yes,8,Positive
+MLMP0048,20-08-2018,40,Male,49,148,1,Asthma,102.9,118/75,195,No,Yes,Yes,2,Positive
+MLMP0049,23-08-2018,50,Male,69,172,3,Ebola Virus,99.5,119/78,345,Yes,Yes,Yes,1,Positive
+MLMP0050,25-08-2018,30,Male,53,162,4,Influenza,102.6,103/76,197,Yes,Yes,No,4,Positive
+MLMP0051,01-09-2018,55,Female,55,168,5,HIV/AIDS,103.6,111/74,258,No,No,No,1,Negative
+MLMP0052,03-09-2018,65,Male,95,180,3,Diabetes,101,113/76,209,No,Yes,No,7,Negative
+MLMP0053,10-09-2018,35,Male,100,179,2,Gastroenteritis,100.7,114/76,195,No,Yes,Yes,10,Positive
+MLMP0054,22-09-2018,45,Female,74,159,3,Crohn's Disease,103.3,115/71,342,No,Yes,No,7,Positive
+MLMP0055,25-09-2018,42,Male,73,171,2,Lung Cancer,100.7,110/77,328,No,Yes,Yes,10,Negative
+MLMP0056,29-09-2018,65,Male,82,170,4,Bronchitis,101.1,117/71,182,No,Yes,Yes,0,Positive
+MLMP0057,02-10-2018,29,Female,55,157,4,Allergic Rhinitis,102.9,117/73,184,Yes,Yes,No,8,Negative
+MLMP0058,03-10-2018,45,Male,57,150,4,Allergic Rhinitis,98.8,112/74,211,Yes,Yes,No,7,Positive
+MLMP0059,10-10-2018,65,Female,69,158,2,Lung Cancer,103,114/76,293,No,Yes,No,9,Positive
+MLMP0060,15-10-2018,50,Female,59,150,3,Cholera,102.7,106/74,181,No,Yes,Yes,1,Negative
+MLMP0061,15-10-2018,38,Female,54,161,5,Liver Cancer,102,113/76,302,Yes,No,No,9,Negative
+MLMP0062,22-10-2018,25,Female,70,161,4,Eczema,100.2,108/75,219,No,No,No,3,Positive
+MLMP0063,04-11-2018,55,Female,73,168,2,Parkinson's Disease,100.8,107/76,320,No,Yes,No,3,Negative
+MLMP0064,10-11-2018,50,Male,54,151,1,Liver Cancer,101.4,103/69,188,Yes,Yes,Yes,4,Positive
+MLMP0065,11-11-2018,35,Male,79,171,2,Ulcerative Colitis,102.6,103/76,280,No,Yes,No,0,Positive
+MLMP0066,25-11-2018,55,Male,71,169,5,Typhoid Fever,101.2,114/71,204,Yes,No,No,0,Positive
+MLMP0067,25-11-2018,50,Male,62,157,4,Sleep Apnea,102.1,105/79,211,No,Yes,Yes,3,Negative
+MLMP0068,26-11-2018,45,Male,70,154,5,Asthma,101.1,107/70,306,Yes,No,Yes,2,Positive
+MLMP0069,01-12-2018,55,Male,65,177,2,Bronchitis,100.2,117/71,295,No,Yes,Yes,4,Negative
+MLMP0070,01-12-2018,65,Female,78,175,1,Dementia,101.2,119/75,257,No,Yes,No,0,Positive
+MLMP0071,04-12-2018,35,Male,93,176,2,Migraine,101.1,117/71,342,Yes,Yes,No,8,Positive
+MLMP0072,09-12-2018,70,Female,66,159,5,Gout,99.9,107/70,212,No,Yes,No,0,Positive
+MLMP0073,17-12-2018,40,Male,87,172,3,Cystic Fibrosis,102.2,112/74,193,No,Yes,Yes,2,Negative
+MLMP0074,19-12-2018,70,Male,70,157,3,Prostate Cancer,103.3,112/78,344,Yes,No,No,1,Negative
+MLMP0075,24-12-2018,40,Female,77,174,3,Diabetes,103.1,116/78,324,No,No,No,3,Negative
+MLMP0076,31-12-2018,29,Female,66,151,2,Pancreatitis,102.3,114/71,257,No,No,No,0,Negative
+MLMP0077,01-01-2019,35,Female,71,169,2,Rubella,100.1,112/72,198,No,Yes,No,9,Negative
+MLMP0078,14-01-2019,45,Female,67,160,1,Hepatitis,99.6,110/77,219,No,Yes,No,6,Negative
+MLMP0079,15-01-2019,40,Female,83,170,1,Rabies,101.8,107/76,193,Yes,No,No,7,Negative
+MLMP0080,19-01-2019,55,Male,81,171,3,Osteoporosis,100.6,103/69,264,No,Yes,No,4,Negative
+MLMP0081,21-01-2019,40,Male,62,170,1,Acne,103,112/78,192,No,Yes,No,9,Negative
+MLMP0082,23-01-2019,25,Female,44,159,1,Influenza,98.3,113/79,216,Yes,Yes,Yes,4,Positive
+MLMP0083,18-02-2019,38,Female,80,165,1,Stroke,101.7,114/71,216,Yes,No,No,8,Negative
+MLMP0084,18-02-2019,60,Female,76,169,3,Pancreatitis,99.9,103/76,257,Yes,Yes,No,1,Positive
+MLMP0085,23-02-2019,35,Male,44,149,4,Malaria,104,109/71,196,No,No,No,1,Positive
+MLMP0086,24-02-2019,40,Male,60,183,5,Asthma,101.5,103/70,183,No,Yes,Yes,5,Positive
+MLMP0087,01-03-2019,50,Female,79,169,3,Down Syndrome,100.4,114/71,209,No,Yes,No,0,Positive
+MLMP0088,06-03-2019,45,Female,67,180,5,Osteoporosis,102.7,119/78,189,Yes,Yes,No,7,Positive
+MLMP0089,07-03-2019,65,Female,56,148,2,Alzheimer's Disease,100.3,106/74,348,No,Yes,No,2,Positive
+MLMP0090,12-03-2019,45,Male,68,175,2,Osteoarthritis,103.1,111/73,194,No,Yes,Yes,2,Positive
+MLMP0091,14-03-2019,42,Male,69,159,2,Osteoarthritis,98.3,111/72,195,No,Yes,No,10,Negative
+MLMP0092,16-03-2019,52,Male,80,175,3,Multiple Sclerosis,104,109/77,259,Yes,Yes,No,10,Negative
+MLMP0093,19-03-2019,35,Male,50,159,5,Kidney Cancer,100.9,108/70,269,No,Yes,No,0,Positive
+MLMP0094,21-03-2019,50,Male,48,179,1,Crohn's Disease,101.7,108/73,255,Yes,Yes,No,5,Negative
+MLMP0095,24-03-2019,38,Female,40,178,1,Depression,101.8,118/76,214,No,No,No,6,Negative
+MLMP0096,25-03-2019,55,Male,81,167,2,Typhoid Fever,99.5,103/76,188,Yes,No,No,1,Positive
+MLMP0097,04-04-2019,29,Female,63,155,2,Liver Cancer,102.5,110/75,341,Yes,Yes,Yes,6,Positive
+MLMP0098,19-04-2019,38,Male,74,163,2,Diabetes,103.9,118/79,264,No,Yes,Yes,2,Positive
+MLMP0099,21-04-2019,50,Male,84,169,3,Sepsis,100.8,117/71,201,Yes,Yes,No,0,Negative
+MLMP0100,22-04-2019,80,Female,61,152,4,Stroke,101.8,104/73,264,No,Yes,No,4,Positive
+MLMP0101,25-04-2019,30,Female,66,175,1,Asthma,100.9,108/70,190,Yes,No,Yes,4,Positive
+MLMP0102,25-04-2019,70,Female,58,166,4,Alzheimer's Disease,102.1,109/71,203,No,Yes,No,1,Negative
+MLMP0103,01-05-2019,35,Female,76,166,2,Psoriasis,102.5,113/76,302,Yes,Yes,No,2,Negative
+MLMP0104,04-05-2019,60,Female,67,176,5,Kidney Disease,101.7,116/78,328,Yes,Yes,Yes,10,Positive
+MLMP0105,06-05-2019,40,Male,64,155,3,Osteoarthritis,100.2,108/75,201,No,Yes,No,7,Negative
+MLMP0106,09-05-2019,50,Male,58,165,4,Diabetes,102,115/71,212,Yes,No,No,5,Negative
+MLMP0107,09-05-2019,60,Male,82,175,1,Breast Cancer,100.9,110/77,204,No,Yes,No,6,Negative
+MLMP0108,24-05-2019,45,Female,45,152,2,Migraine,101.9,111/73,261,No,No,No,5,Negative
+MLMP0109,27-05-2019,35,Male,70,174,5,Atherosclerosis,102.9,117/73,142,No,Yes,No,2,Negative
+MLMP0110,11-06-2019,29,Male,73,162,3,Diabetes,100.6,114/76,192,No,No,No,9,Negative
+MLMP0111,12-06-2019,50,Female,49,173,3,Depression,103.6,107/76,193,Yes,Yes,No,3,Negative
+MLMP0112,20-06-2019,30,Female,71,155,3,Migraine,100.5,119/75,204,Yes,Yes,No,2,Negative
+MLMP0113,22-06-2019,65,Male,44,164,3,Mumps,102.9,109/77,324,No,Yes,No,2,Positive
+MLMP0114,05-07-2019,45,Male,75,175,4,Kidney Cancer,103.6,106/74,255,Yes,Yes,Yes,4,Negative
+MLMP0115,25-07-2019,40,Male,68,179,2,Asthma,99.9,114/76,218,No,Yes,Yes,3,Positive
+MLMP0116,07-08-2019,60,Male,60,157,2,Parkinson's Disease,103.7,115/71,306,Yes,No,No,5,Positive
+MLMP0117,08-08-2019,35,Male,86,172,3,Pancreatitis,99.6,113/76,345,No,Yes,No,9,Positive
+MLMP0118,09-08-2019,70,Female,82,166,2,Migraine,103.6,108/75,184,No,Yes,No,1,Positive
+MLMP0119,11-08-2019,45,Female,84,178,5,Crohn's Disease,99.7,116/79,297,Yes,Yes,No,3,Positive
+MLMP0120,13-08-2019,35,Male,52,177,1,Epilepsy,101.3,103/70,185,No,Yes,No,10,Negative
+MLMP0121,14-08-2019,50,Female,64,155,1,Ulcerative Colitis,102.2,108/70,279,Yes,Yes,No,1,Positive
+MLMP0122,15-08-2019,29,Female,74,181,2,Rheumatoid Arthritis,103.7,105/72,210,Yes,Yes,Yes,5,Negative
+MLMP0123,16-08-2019,55,Female,61,154,4,Parkinson's Disease,101.3,119/75,269,No,Yes,No,9,Negative
+MLMP0124,17-08-2019,40,Male,63,156,3,Gastroenteritis,101.4,103/70,208,Yes,Yes,No,6,Positive
+MLMP0125,18-08-2019,65,Female,56,158,5,Liver Cancer,101.2,119/78,257,Yes,Yes,No,1,Positive
+MLMP0126,26-08-2019,40,Female,84,177,4,Coronary Artery Disease,100.6,109/71,206,No,Yes,No,7,Positive
+MLMP0127,30-08-2019,60,Female,79,179,3,Hypertension,98.8,114/78,188,No,Yes,No,2,Positive
+MLMP0128,30-08-2019,40,Female,45,158,5,"Eating Disorders (Anorexia,...",101.3,106/69,192,No,Yes,No,10,Positive
+MLMP0129,01-09-2019,90,Female,62,155,2,Stroke,100.6,117/71,328,No,Yes,No,7,Positive
+MLMP0130,02-09-2019,65,Female,76,160,2,Lung Cancer,102.6,106/69,304,Yes,Yes,No,8,Positive
+MLMP0131,13-09-2019,35,Male,66,154,3,Obsessive-Compulsive Disorde...,101,112/78,328,No,Yes,No,4,Negative
+MLMP0132,17-09-2019,55,Female,44,151,4,Coronary Artery Disease,102.1,118/79,345,No,Yes,No,0,Positive
+MLMP0133,03-10-2019,50,Female,68,157,2,Eczema,99.6,107/70,216,Yes,No,No,10,Positive
+MLMP0134,09-10-2019,70,Male,65,160,1,Cholecystitis,100.8,113/76,304,No,Yes,No,6,Negative
+MLMP0135,13-10-2019,70,Female,52,181,3,Tonsillitis,101.3,106/74,345,Yes,Yes,No,10,Positive
+MLMP0136,13-10-2019,29,Male,81,174,3,Urinary Tract Infection,99.5,103/70,348,Yes,Yes,No,3,Positive
+MLMP0137,19-10-2019,40,Female,63,171,5,Hypoglycemia,99.7,105/72,209,No,Yes,No,3,Positive
+MLMP0138,26-10-2019,35,Female,60,169,1,Rheumatoid Arthritis,100.7,111/73,341,No,Yes,No,5,Positive
+MLMP0139,29-10-2019,35,Female,48,174,2,Pneumonia,101.9,113/76,345,Yes,Yes,Yes,3,Negative
+MLMP0140,12-11-2019,45,Male,68,152,3,Allergic Rhinitis,101,108/70,212,Yes,Yes,No,0,Negative
+MLMP0141,18-11-2019,60,Female,67,151,5,Hypertension,100.2,119/75,185,No,No,No,1,Positive
+MLMP0142,18-11-2019,60,Female,43,151,1,Tuberculosis,99.8,115/72,212,Yes,Yes,No,0,Positive
+MLMP0143,22-11-2019,60,Female,84,175,2,Kidney Cancer,101.3,115/71,214,Yes,Yes,No,3,Positive
+MLMP0144,27-11-2019,45,Female,61,161,1,Hypothyroidism,100,103/70,280,No,Yes,No,3,Positive
+MLMP0145,03-12-2019,30,Male,60,154,5,Sinusitis,99.5,115/71,217,Yes,Yes,No,7,Negative
+MLMP0146,11-12-2019,35,Female,56,157,2,Asthma,101.5,110/77,199,Yes,Yes,Yes,5,Negative
+MLMP0147,26-12-2019,55,Male,45,163,3,Common Cold,103.2,111/74,187,No,Yes,Yes,1,Negative
+MLMP0148,01-01-2020,45,Male,69,161,5,Pneumonia,102.4,117/73,188,Yes,Yes,Yes,8,Positive
+MLMP0149,12-01-2020,48,Female,48,158,3,Hypertension,100.6,116/79,181,No,No,No,5,Negative
+MLMP0150,13-01-2020,35,Female,58,163,1,Hyperthyroidism,98.7,113/76,182,Yes,Yes,No,2,Negative
+MLMP0151,20-01-2020,42,Male,58,170,3,Depression,102.8,104/73,345,No,No,Yes,5,Negative
+MLMP0152,23-01-2020,28,Female,79,180,2,Hyperthyroidism,99.9,115/71,197,Yes,No,No,0,Negative
+MLMP0153,26-01-2020,60,Female,56,155,1,Measles,100.2,112/78,214,Yes,No,No,7,Negative
+MLMP0154,05-02-2020,30,Female,72,163,4,Myocardial Infarction (Heart...,100.9,106/74,324,Yes,Yes,Yes,9,Positive
+MLMP0155,06-02-2020,31,Female,53,157,4,Migraine,99.7,111/72,206,No,No,No,6,Positive
+MLMP0156,09-02-2020,57,Male,62,158,2,Pneumonia,101.6,106/69,261,Yes,No,Yes,4,Negative
+MLMP0157,11-02-2020,40,Female,70,154,3,Bronchitis,101.8,118/76,199,Yes,No,Yes,5,Negative
+MLMP0158,15-02-2020,50,Female,75,165,4,Klinefelter Syndrome,100.7,114/78,204,No,Yes,No,8,Positive
+MLMP0159,17-02-2020,29,Female,62,179,5,Anxiety Disorders,100.1,106/69,199,Yes,No,No,7,Negative
+MLMP0160,20-02-2020,38,Female,46,175,4,Kidney Disease,104,113/79,193,No,Yes,No,9,Negative
+MLMP0161,21-02-2020,70,Female,74,153,3,Williams Syndrome,100.5,111/74,198,No,Yes,No,4,Positive
+MLMP0162,24-02-2020,45,Male,70,161,2,Tetanus,103.2,109/71,182,No,Yes,No,3,Positive
+MLMP0163,27-02-2020,60,Male,60,147,2,Osteoporosis,99.9,112/72,343,No,No,No,7,Negative
+MLMP0164,28-02-2020,42,Male,47,157,4,Diabetes,100.4,110/75,345,Yes,Yes,No,6,Positive
+MLMP0165,01-03-2020,55,Female,48,179,3,HIV/AIDS,102.5,109/71,348,No,No,No,2,Negative
+MLMP0166,14-03-2020,45,Male,86,166,3,Hypertension,101.9,118/75,184,No,Yes,No,6,Positive
+MLMP0167,23-03-2020,42,Female,47,180,1,Urinary Tract Infection,100.1,103/69,197,Yes,Yes,Yes,8,Negative
+MLMP0168,14-04-2020,35,Male,53,165,3,Asthma,101.9,114/78,257,Yes,No,Yes,6,Positive
+MLMP0169,14-04-2020,35,Female,69,153,5,Depression,101.2,107/76,259,No,Yes,No,9,Positive
+MLMP0170,20-04-2020,55,Female,66,149,3,Coronary Artery Disease,101,104/73,324,No,Yes,No,2,Positive
+MLMP0171,21-04-2020,30,Female,80,169,3,Urinary Tract Infection (UTI),100.2,112/78,346,No,No,No,0,Positive
+MLMP0172,26-04-2020,35,Male,60,181,4,Ulcerative Colitis,101.2,114/76,343,No,No,No,9,Positive
+MLMP0173,26-04-2020,45,Male,78,164,2,Stroke,99.5,107/70,257,No,Yes,No,7,Negative
+MLMP0174,05-05-2020,45,Female,66,157,2,Cataracts,99.6,108/75,345,No,Yes,No,1,Positive
+MLMP0175,06-05-2020,50,Male,56,176,5,Stroke,101.8,118/79,259,Yes,Yes,Yes,0,Positive
+MLMP0176,09-05-2020,70,Male,78,169,1,Schizophrenia,102.5,107/70,197,Yes,Yes,No,2,Negative
+MLMP0177,22-05-2020,45,Male,77,168,1,Asthma,102.7,113/79,324,Yes,No,Yes,0,Positive
+MLMP0178,23-05-2020,55,Male,71,164,1,Esophageal Cancer,101.8,111/73,292,No,Yes,No,2,Negative
+MLMP0179,24-05-2020,40,Female,62,152,2,Lymphoma,101.7,112/78,343,Yes,No,No,5,Positive
+MLMP0180,28-05-2020,65,Male,56,152,4,Alzheimer's Disease,103.6,107/70,188,Yes,No,No,3,Positive
+MLMP0181,06-06-2020,35,Female,84,181,1,Pneumonia,100.3,106/74,280,Yes,Yes,Yes,9,Negative
+MLMP0182,11-06-2020,30,Male,67,164,3,Kidney Cancer,101.9,114/78,216,No,Yes,No,2,Negative
+MLMP0183,13-06-2020,45,Female,57,158,3,Pneumocystis Pneumonia (PCP),99.8,116/78,304,Yes,Yes,No,6,Positive
+MLMP0184,16-06-2020,30,Female,65,152,3,Bipolar Disorder,103.1,116/78,219,No,Yes,No,5,Positive
+MLMP0185,25-06-2020,30,Female,71,156,4,Dengue Fever,103.6,117/77,261,No,Yes,No,1,Negative
+MLMP0186,29-06-2020,30,Male,82,181,4,Hepatitis,101.3,115/71,193,Yes,Yes,Yes,10,Negative
+MLMP0187,05-07-2020,90,Female,61,169,2,Stroke,103.2,110/75,342,No,Yes,No,1,Positive
+MLMP0188,10-07-2020,43,Female,89,181,2,Pneumonia,103.7,118/79,193,Yes,Yes,Yes,2,Positive
+MLMP0189,14-07-2020,35,Female,66,156,1,Allergic Rhinitis,100.2,107/70,202,No,Yes,No,8,Negative
+MLMP0190,14-07-2020,70,Male,63,158,3,Testicular Cancer,101.9,117/73,192,No,Yes,No,6,Positive
+MLMP0191,21-07-2020,65,Female,58,155,4,Stroke,103.4,114/78,258,No,Yes,No,1,Negative
+MLMP0192,26-07-2020,50,Male,77,182,2,Urinary Tract Infection,99.6,105/72,258,Yes,No,Yes,2,Negative
+MLMP0193,27-07-2020,29,Female,81,165,1,Common Cold,103.2,111/74,206,No,No,No,4,Negative
+MLMP0194,30-07-2020,50,Male,77,168,1,Kidney Disease,101.2,109/77,264,Yes,No,Yes,10,Negative
+MLMP0195,06-08-2020,38,Male,81,177,2,Liver Disease,101.3,115/71,200,Yes,No,Yes,5,Negative
+MLMP0196,14-08-2020,85,Male,87,165,1,Stroke,102.3,118/79,269,No,Yes,No,9,Positive
+MLMP0197,17-08-2020,50,Male,71,163,1,Allergic Rhinitis,100.8,118/75,215,No,No,No,3,Negative
+MLMP0198,18-08-2020,60,Male,65,160,2,Osteomyelitis,99.6,105/72,259,No,Yes,No,0,Negative
+MLMP0199,25-08-2020,38,Male,68,174,1,Anxiety Disorders,99.7,116/79,186,No,Yes,Yes,7,Positive
+MLMP0200,05-09-2020,50,Female,60,170,2,Rheumatoid Arthritis,102.8,110/75,320,Yes,No,No,8,Negative
+MLMP0201,10-09-2020,60,Male,77,176,4,Osteoporosis,100.7,109/71,277,Yes,No,No,7,Negative
+MLMP0202,21-09-2020,35,Male,87,176,1,Migraine,101.7,114/78,192,No,No,No,8,Positive
+MLMP0203,24-09-2020,50,Male,79,163,1,Lyme Disease,101.8,118/75,345,No,No,No,5,Positive
+MLMP0204,25-09-2020,40,Female,82,173,2,Fibromyalgia,100.8,111/74,214,No,Yes,No,6,Positive
+MLMP0205,28-09-2020,35,Male,63,178,4,Common Cold,99.6,112/74,208,Yes,Yes,No,6,Negative
+MLMP0206,08-10-2020,30,Female,64,151,3,Hypertensive Heart Disease,101.4,114/71,208,No,Yes,No,8,Positive
+MLMP0207,19-10-2020,55,Female,70,158,1,Diabetes,100.2,105/79,345,Yes,No,No,5,Negative
+MLMP0208,23-10-2020,35,Male,75,174,3,Rheumatoid Arthritis,99.9,104/73,112,Yes,Yes,No,6,Positive
+MLMP0209,08-11-2020,55,Male,82,181,5,Liver Disease,102.9,103/76,259,Yes,Yes,No,8,Negative
+MLMP0210,23-11-2020,35,Male,50,172,2,Hyperthyroidism,98.8,117/77,218,Yes,Yes,No,1,Positive
+MLMP0211,29-11-2020,60,Male,58,151,4,Polio,100.4,114/76,259,Yes,Yes,No,3,Negative
+MLMP0212,02-12-2020,60,Male,68,152,2,Hepatitis B,98.4,111/72,204,Yes,Yes,No,5,Positive
+MLMP0213,08-12-2020,70,Male,67,168,3,Parkinson's Disease,99.7,103/76,208,No,Yes,No,3,Negative
+MLMP0214,10-12-2020,50,Female,49,164,2,Cholera,100.7,111/73,195,No,Yes,Yes,6,Negative
+MLMP0215,16-12-2020,45,Female,67,160,2,Zika Virus,101.6,145/95 ,264,Yes,Yes,No,9,Negative
+MLMP0216,17-12-2020,40,Male,59,174,5,Asthma,100.2,117/73,200,No,Yes,No,8,Positive
+MLMP0217,22-12-2020,25,Male,92,178,2,Asthma,98.4,118/76,209,Yes,No,Yes,5,Positive
+MLMP0218,23-12-2020,60,Female,50,159,1,Osteoarthritis,102.7,118/75,343,Yes,No,Yes,2,Negative
+MLMP0219,24-12-2020,29,Male,49,182,2,Depression,99.5,115/71,343,Yes,Yes,Yes,3,Positive
+MLMP0220,25-12-2020,35,Male,74,172,4,Eczema,100.6,114/76,190,Yes,No,No,7,Negative
+MLMP0221,07-01-2021,30,Male,67,168,3,Eczema,103.6,117/77,209,Yes,Yes,No,3,Negative
+MLMP0222,21-01-2021,45,Male,64,176,4,Pancreatitis,100.5,103/76,292,Yes,Yes,Yes,0,Negative
+MLMP0223,28-01-2021,60,Male,47,177,5,Osteoporosis,101.4,116/79,295,Yes,No,No,6,Negative
+MLMP0224,31-01-2021,45,Female,65,152,3,Multiple Sclerosis,103.4,108/70,343,No,No,No,1,Positive
+MLMP0225,05-02-2021,50,Male,88,179,1,Kidney Cancer,100.5,112/72,345,Yes,No,No,7,Negative
+MLMP0226,07-02-2021,55,Female,102,171,2,Osteoporosis,99.5,107/76,166,No,Yes,No,3,Positive
+MLMP0227,08-02-2021,30,Female,83,176,2,Bronchitis,102,106/74,211,Yes,No,Yes,6,Positive
+MLMP0228,16-02-2021,45,Male,78,167,2,Melanoma,99.9,103/70,185,No,Yes,No,6,Negative
+MLMP0229,16-02-2021,45,Male,73,162,3,Hyperglycemia,99.8,117/71,297,No,Yes,No,8,Negative
+MLMP0230,16-02-2021,65,Female,51,155,4,Diabetes,103.3,105/79,304,Yes,Yes,No,3,Positive
+MLMP0231,20-02-2021,60,Male,69,171,2,Hepatitis B,98.7,106/74,191,Yes,Yes,No,3,Positive
+MLMP0232,26-02-2021,42,Male,53,154,4,Anxiety Disorders,103.4,105/72,199,No,No,No,8,Negative
+MLMP0233,28-02-2021,85,Male,60,176,1,Stroke,99.9,108/70,320,No,Yes,No,3,Positive
+MLMP0234,03-03-2021,55,Male,76,160,1,Marfan Syndrome,100.1,170/110,343,No,Yes,No,6,Negative
+MLMP0235,04-03-2021,55,Female,81,166,1,Hemorrhoids,99.7,108/70,342,No,No,No,1,Positive
+MLMP0236,13-03-2021,19,Female,69,163,5,Influenza,103,88/58,186,No,Yes,Yes,6,Positive
+MLMP0237,26-03-2021,60,Male,59,160,1,Parkinson's Disease,101.7,112/72,328,Yes,No,No,7,Positive
+MLMP0238,29-03-2021,25,Male,69,160,2,Asthma,98.7,104/68,194,Yes,No,Yes,8,Positive
+MLMP0239,24-04-2021,50,Male,56,158,2,Crohn's Disease,99.8,119/75,199,No,Yes,No,9,Negative
+MLMP0240,26-04-2021,55,Female,79,167,1,Osteoarthritis,101.1,103/76,211,Yes,No,No,1,Positive
+MLMP0241,28-04-2021,38,Male,51,156,5,Osteoarthritis,102.4,113/76,207,Yes,Yes,No,3,Positive
+MLMP0242,28-04-2021,70,Male,62,156,1,Chronic Obstructive Pulmonary Disease (COPD),103.7,105/79,207,Yes,Yes,Yes,8,Negative
+MLMP0243,29-04-2021,55,Female,46,181,5,Osteoporosis,102.6,119/75,188,No,Yes,No,9,Positive
+MLMP0244,09-05-2021,65,Female,81,176,3,Stroke,101.9,111/72,349,No,Yes,No,0,Negative
+MLMP0245,10-05-2021,50,Female,50,171,2,Hypertension,101.9,118/79,201,Yes,No,No,0,Negative
+MLMP0246,11-05-2021,60,Male,65,148,5,Coronary Artery Disease,100.8,118/75,193,Yes,No,No,6,Negative
+MLMP0247,17-05-2021,35,Male,58,147,2,Liver Disease,101.6,109/77,306,No,Yes,No,7,Positive
+MLMP0248,23-05-2021,40,Female,57,180,4,Hemophilia,101,103/70,193,No,Yes,No,4,Positive
+MLMP0249,24-05-2021,30,Male,61,177,4,Bronchitis,103.4,103/69,191,Yes,Yes,Yes,5,Positive
+MLMP0250,25-05-2021,55,Female,63,153,5,Osteoporosis,102,117/71,293,Yes,Yes,No,4,Positive
+MLMP0251,05-06-2021,40,Male,70,154,2,Tuberculosis,102.1,114/71,194,Yes,Yes,Yes,9,Positive
+MLMP0252,13-06-2021,50,Male,67,180,4,Ebola Virus,103,107/70,250,Yes,Yes,Yes,7,Positive
+MLMP0253,20-06-2021,45,Male,78,169,1,Turner Syndrome,103.9,160/110,259,No,Yes,No,6,Negative
+MLMP0254,26-06-2021,35,Female,62,154,2,Asthma,102.3,108/75,212,Yes,Yes,Yes,9,Negative
+MLMP0255,27-06-2021,30,Female,50,180,5,Asthma,101.6,109/77,193,Yes,Yes,Yes,3,Positive
+MLMP0256,29-06-2021,42,Female,76,166,3,Influenza,98.6,116/79,187,Yes,No,No,3,Negative
+MLMP0257,30-06-2021,31,Male,72,165,4,Common Cold,100.2,118/76,201,No,Yes,Yes,10,Positive
+MLMP0258,02-07-2021,40,Female,76,166,2,Rabies,102.3,115/71,156,Yes,No,No,0,Negative
+MLMP0259,08-07-2021,65,Male,62,151,2,Tourette Syndrome,102.5,103/76,191,No,Yes,No,4,Negative
+MLMP0260,14-07-2021,40,Male,44,175,2,Chickenpox,100.1,105/72,208,Yes,No,No,0,Positive
+MLMP0261,16-07-2021,32,Female,69,161,2,Pneumonia,103.6,110/75,341,No,Yes,Yes,8,Positive
+MLMP0262,20-07-2021,65,Female,56,181,3,Chronic Obstructive Pulmonary Disease (COPD),100,115/72,214,No,Yes,Yes,5,Positive
+MLMP0263,02-08-2021,70,Male,59,156,4,Stroke,100.3,110/77,206,Yes,No,No,10,Positive
+MLMP0264,12-08-2021,55,Female,61,155,4,Hypertension,101.5,114/71,349,Yes,No,No,7,Negative
+MLMP0265,29-08-2021,55,Female,59,156,2,Migraine,103.2,114/78,345,Yes,Yes,Yes,8,Negative
+MLMP0266,01-09-2021,60,Female,74,173,3,Asthma,100,113/76,211,Yes,Yes,Yes,8,Positive
+MLMP0267,08-09-2021,35,Female,68,167,5,Spina Bifida,101.4,114/71,293,No,Yes,No,2,Positive
+MLMP0268,16-09-2021,70,Male,83,171,2,Chronic Obstructive Pulmonary Disease (COPD),101,111/73,201,Yes,Yes,Yes,4,Negative
+MLMP0269,16-09-2021,42,Female,70,164,2,Common Cold,100.1,106/69,192,Yes,No,No,0,Negative
+MLMP0270,22-09-2021,55,Female,60,148,2,Anxiety Disorders,102.5,113/76,201,Yes,No,No,8,Positive
+MLMP0271,27-09-2021,35,Female,71,170,2,Hypertension,100.3,103/70,257,Yes,Yes,No,10,Negative
+MLMP0272,01-10-2021,45,Female,82,166,5,Depression,101.4,117/73,345,No,Yes,No,6,Positive
+MLMP0273,02-10-2021,65,Female,52,151,2,Osteoporosis,100.1,116/78,345,Yes,Yes,No,0,Positive
+MLMP0274,15-10-2021,42,Male,90,181,3,Stroke,99.8,119/78,204,No,Yes,No,9,Negative
+MLMP0275,15-10-2021,45,Female,74,166,3,Multiple Sclerosis,103.9,117/71,306,No,No,No,4,Positive
+MLMP0276,19-10-2021,45,Male,79,166,4,Autism Spectrum Disorder (ASD),102.1,112/72,209,No,Yes,No,1,Negative
+MLMP0277,24-10-2021,60,Female,64,172,4,Rheumatoid Arthritis,100.6,116/78,186,No,Yes,No,5,Positive
+MLMP0278,28-10-2021,35,Male,72,159,2,Chronic Obstructive Pulmonary...,104,104/68,209,Yes,Yes,Yes,7,Negative
+MLMP0279,30-10-2021,65,Male,70,158,2,Mumps,101.5,112/72,306,No,Yes,No,5,Positive
+MLMP0280,01-11-2021,38,Male,54,150,3,Influenza,99.9,107/70,185,No,No,No,4,Negative
+MLMP0281,08-11-2021,40,Male,70,166,2,Brain Tumor,100,109/71,214,No,Yes,No,3,Negative
+MLMP0282,08-11-2021,65,Male,90,176,1,Otitis Media (Ear Infection),99.6,113/76,261,Yes,Yes,No,3,Negative
+MLMP0283,11-11-2021,35,Female,45,158,4,Cirrhosis,103.4,103/69,257,No,Yes,No,8,Positive
+MLMP0284,22-11-2021,29,Female,48,151,4,Gastroenteritis,101.3,103/70,187,Yes,No,No,2,Negative
+MLMP0285,22-11-2021,35,Female,69,161,1,Conjunctivitis (Pink Eye),100.5,119/75,349,Yes,No,No,4,Positive
+MLMP0286,03-12-2021,45,Female,71,155,1,Urinary Tract Infection,100.9,85/55 ,343,No,No,No,8,Negative
+MLMP0287,28-12-2021,31,Male,87,173,1,Asthma,102.2,109/72,193,No,No,Yes,0,Negative
+MLMP0288,01-01-2022,45,Female,84,171,2,Liver Disease,100.4,112/74,320,Yes,Yes,No,5,Positive
+MLMP0289,03-01-2022,50,Male,54,161,3,Bronchitis,102.8,104/73,196,Yes,Yes,Yes,6,Positive
+MLMP0290,06-01-2022,42,Female,62,156,3,Liver Disease,103.1,118/76,269,No,No,Yes,3,Negative
+MLMP0291,13-01-2022,38,Female,63,153,5,Allergic Rhinitis,100,115/72,346,Yes,No,No,10,Negative
+MLMP0292,14-01-2022,50,Male,60,181,2,Lyme Disease,102.2,105/72,250,No,No,No,2,Positive
+MLMP0293,24-01-2022,30,Female,55,147,2,Ulcerative Colitis,103.9,118/79,214,Yes,Yes,No,8,Negative
+MLMP0294,29-01-2022,38,Male,76,177,3,Pneumonia,103.4,105/79,250,Yes,Yes,Yes,5,Positive
+MLMP0295,07-02-2022,35,Female,44,149,5,Urinary Tract Infection,102.8,118/75,349,No,Yes,No,5,Positive
+MLMP0296,14-02-2022,40,Male,66,157,4,Tuberculosis,101.7,119/78,202,Yes,Yes,Yes,5,Positive
+MLMP0297,19-02-2022,55,Female,69,154,1,Polycystic Ovary Syndrome (PCOS),101.1,103/70,279,Yes,No,No,5,Positive
+MLMP0298,01-03-2022,45,Male,63,175,5,Tetanus,100.1,112/78,200,No,Yes,No,9,Positive
+MLMP0299,08-03-2022,50,Female,64,148,4,Pneumothorax,100,104/73,331,No,Yes,Yes,2,Positive
+MLMP0300,21-03-2022,30,Female,65,155,2,Multiple Sclerosis,103,107/70,192,No,Yes,No,3,Positive
+MLMP0301,23-03-2022,38,Male,69,177,1,Migraine,102.5,103/69,214,Yes,No,No,4,Positive
+MLMP0302,23-03-2022,60,Male,49,166,4,Hypertension,98.5,108/73,200,No,Yes,No,5,Positive
+MLMP0303,02-04-2022,45,Female,78,165,3,Hepatitis,103.7,114/76,199,No,Yes,No,8,Negative
+MLMP0304,03-04-2022,60,Female,68,156,3,Prader-Willi Syndrome,103.2,109/77,203,No,Yes,No,3,Positive
+MLMP0305,11-04-2022,40,Male,53,156,2,Psoriasis,99.8,106/69,349,Yes,Yes,No,0,Positive
+MLMP0306,18-04-2022,42,Male,86,180,1,Migraine,100.3,104/73,209,Yes,Yes,No,2,Negative
+MLMP0307,01-05-2022,45,Male,61,151,3,Turner Syndrome,102.8,115/72,349,No,Yes,No,10,Negative
+MLMP0308,01-05-2022,55,Female,78,166,2,Hypothyroidism,102.5,109/77,345,No,Yes,No,10,Positive
+MLMP0309,01-05-2022,35,Female,65,181,1,Liver Cancer,102.4,112/72,320,No,Yes,No,1,Positive
+MLMP0310,07-05-2022,30,Female,71,169,5,Influenza,99.5,119/78,206,Yes,Yes,Yes,9,Positive
+MLMP0311,08-05-2022,28,Female,51,167,4,Hyperthyroidism,98.2,108/75,202,Yes,No,No,1,Negative
+MLMP0312,11-05-2022,28,Male,69,170,3,Asthma,101.5,110/77,131,No,No,Yes,10,Positive
+MLMP0313,18-05-2022,30,Female,70,161,1,Asthma,102.4,112/72,185,Yes,No,Yes,9,Positive
+MLMP0314,29-05-2022,30,Male,46,169,4,Muscular Dystrophy,101.2,107/76,188,No,Yes,No,1,Negative
+MLMP0315,30-05-2022,35,Female,46,172,5,Rubella,102.9,108/70,210,No,Yes,No,4,Negative
+MLMP0316,05-06-2022,55,Male,69,159,2,Hypertension,101.2,109/71,192,No,Yes,No,9,Positive
+MLMP0317,07-06-2022,70,Male,71,160,3,Stroke,102,115/71,199,Yes,No,No,7,Positive
+MLMP0318,13-06-2022,30,Male,56,147,5,Gastroenteritis,103.3,111/74,183,Yes,Yes,No,7,Negative
+MLMP0319,14-06-2022,40,Female,71,151,1,Psoriasis,102,114/76,346,Yes,No,No,7,Positive
+MLMP0320,24-06-2022,50,Male,47,151,5,Pancreatitis,99.5,116/78,269,Yes,No,No,6,Negative
+MLMP0321,11-07-2022,42,Female,65,175,3,Hypothyroidism,98.9,106/74,183,Yes,Yes,No,7,Positive
+MLMP0322,18-07-2022,60,Male,57,175,2,Coronary Artery Disease,103.7,105/72,277,Yes,No,No,8,Negative
+MLMP0323,29-07-2022,45,Male,73,173,2,Anxiety Disorders,101.7,108/73,207,Yes,Yes,No,4,Positive
+MLMP0324,30-07-2022,65,Female,85,180,3,Diverticulitis,100.2,115/71,345,No,Yes,No,8,Positive
+MLMP0325,01-08-2022,35,Female,53,162,2,Psoriasis,102.6,108/73,209,No,No,No,6,Negative
+MLMP0326,03-08-2022,30,Female,55,160,3,Dengue Fever,99.8,110/70,349,No,Yes,No,0,Negative
+MLMP0327,11-08-2022,60,Male,49,168,3,Hyperthyroidism,103.1,111/74,331,No,Yes,No,9,Negative
+MLMP0328,13-08-2022,35,Male,104,182,5,Urinary Tract Infection (UTI),102,106/74,345,Yes,Yes,No,7,Negative
+MLMP0329,23-08-2022,45,Female,57,153,3,Scoliosis,101.5,118/75,193,No,No,No,8,Positive
+MLMP0330,24-08-2022,40,Male,80,168,2,Psoriasis,99.6,103/69,190,No,No,No,0,Positive
+MLMP0331,28-08-2022,40,Female,53,178,4,Pneumonia,103.9,115/71,191,Yes,Yes,Yes,4,Positive
+MLMP0332,31-08-2022,55,Male,54,179,3,Osteoporosis,103.3,115/72,191,No,Yes,Yes,6,Positive
+MLMP0333,13-09-2022,45,Female,59,149,2,Diabetes,102.7,106/74,328,No,Yes,No,4,Positive
+MLMP0334,02-10-2022,35,Female,44,168,3,Asthma,99.9,115/71,184,Yes,Yes,Yes,3,Negative
+MLMP0335,31-10-2022,55,Male,75,167,2,Bronchitis,100.4,110/75,200,Yes,Yes,Yes,2,Negative
+MLMP0336,06-11-2022,80,Female,59,161,2,Stroke,99.6,107/76,343,No,Yes,No,6,Positive
+MLMP0337,10-11-2022,52,Male,69,161,4,Multiple Sclerosis,100.2,116/78,344,Yes,Yes,No,6,Negative
+MLMP0338,11-11-2022,50,Male,69,160,3,Anxiety Disorders,102.1,106/74,197,No,Yes,No,10,Negative
+MLMP0339,15-11-2022,65,Female,57,147,1,Stroke,100.5,103/69,346,Yes,Yes,No,7,Positive
+MLMP0340,16-11-2022,35,Female,76,171,1,Asthma,101.8,113/79,197,Yes,Yes,Yes,4,Negative
+MLMP0341,20-11-2022,60,Female,62,169,1,Measles,101.3,109/71,190,Yes,No,No,10,Negative
+MLMP0342,27-11-2022,25,Female,58,156,4,Common Cold,98.9,109/72,207,Yes,Yes,No,9,Negative
+MLMP0343,16-12-2022,30,Female,71,154,5,Migraine,103.7,110/70,195,No,No,No,1,Negative
+MLMP0344,16-12-2022,35,Male,81,174,3,Malaria,99.9,112/78,346,No,No,No,0,Positive
+MLMP0345,18-12-2022,50,Male,88,173,2,Hypothyroidism,103.2,119/75,206,Yes,Yes,No,4,Negative
+MLMP0346,19-12-2022,60,Male,52,180,5,Osteoporosis,101.3,110/75,277,No,Yes,No,8,Positive
+MLMP0347,20-12-2022,55,Female,55,155,4,Systemic Lupus Erythematosus...,100.5,111/73,346,Yes,Yes,No,2,Positive
+MLMP0348,21-12-2022,30,Male,60,153,1,Bronchitis,100.3,111/72,189,Yes,Yes,Yes,9,Positive
+MLMP0349,25-12-2022,48,Male,78,168,2,Hypothyroidism,101.3,108/73,218,No,Yes,No,2,Negative

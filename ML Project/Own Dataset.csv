@@ -1,0 +1,116 @@
+Disease,Medicine 1,Medicine 2,Medicine 3,Medicine 4,Medicine 5
+Acne,Aclind BP 2.5% Gel,Benzac AC 5% Gel,Clinroz-BP Gel,Zylo AC Gel,Retisphere Gel
+Allergic Rhinitis,Otrivin Saline,Allegra-M Tablet,Zaclev M 5mg/10mg Tablet,Wellmont FX Syrup,Virmont FX 10mg/120mg Tablet
+Alzheimer's Disease,Admenta 5 Tablet,Donep-M Forte Tablet,Cogmentin 5mg/5mg Tablet,Talimem 10 Tablet,Senex 5 Tablet
+Anemia,Anfoe 10000IU Injection,Anfoe 6000IU Injection,Zucrose 100mg Injection,Wored XT 100mg Injection,Eporise 4000 Injection
+Anxiety Disorders,Alprax MT 0.125mg Tablet,Procalm 0.25mg Tablet,Seline-A Tablet,Zorelax 0.25mg Tablet,Xalpra 0.5mg Tablet
+Appendicitis,Antax 1gm Injection,Zoftax 250mg Injection,Taxriv S 1000mg/500mg Injection,Zglivo Tablet 500mg,Voflo Tablet
+Asthma,Emzumab 150mg Injection,Glycohale FB Rotacap,Airz Capsule,Forglyn CFC Free Inhaler,Glynium 25mcg Respules
+Atherosclerosis,Arvast-A 75 Capsule,Canaros 10mg Tablet,Elros 10mg Tablet,Unizuva F 160mg/10mg Tablet,Zuptor F 160mg/10mg Tablet
+Autism Spectrum Disorder (ASD),Risperdal 2mg Tablet,Arip MT 5 Tablet,Nulet 5 Tablet,Elrip 10mg Tablet,Zipsydon 40 Capsule
+Bipolar Disorder,Arip MT 5 Tablet,StayHappi Aripiprazole 5mg Tablet,DavaIndia Aripiprazole 10mg Tablet,Nulet 5 Tablet,Azona 40mg Capsule
+Bladder Cancer,Adriamycin 50mg Injection,Lipopeg 20mg Injection,Zodox 10mg Injection,Wellpeg 2mg/ml Injection,Blastolem 50mg Injection
+Brain Tumor,Afinitor 5mg Tablet,Consium 100mg Injection,Nitsum 100mg Injection,Belustine 40 Capsule,Lomat 40mg Capsule
+Breast Cancer,Abraxane 100mg Injection,Cytax 100mg Injection,Uniphos 200mg Injection,Phoxelon 500mg Injection,Es Pacli 30 Injection
+Bronchitis,Adoxy LB Capsule,Anaflam 400mg/325mg Tablet,Thiotrac Plus 10mg/5mg/200mg Tablet,Robial 500mg Tablet,Azee 500 Tablet
+Cataracts,Amplinak Opthalmic Suspension,Ilevro Opthalmic Suspension,Eyedol Eye Drop,Neypac 0.1% Eye Drop,Nepalact Eye Drop
+Cerebral Palsy,Lamictal 25mg Dispersible Tablet,Zaclofen 25 Tablet,Spinospas 10mg Tablet,Tegretol 300mg Tablet,Epsolin 300 Tablet
+Chickenpox,Abivela 1000mg Tablet,Zimivir 500 Tablet,Valavir 1000mg Tablet,Valanext 1000mg Tablet,Lacyz 1000mg Tablet
+Cholecystitis,Lecsul 225mg/150mg Tablet,Actibile 300 Tablet,Evaliv 300mg Tablet,Livsafe 300mg Tablet,Zeudca 150mg Tablet
+Cholera,Alciflox 500mg Tablet,Flocip TZ 500mg/600mg Tablet,Zinflox T 500mg/600mg Tablet,Sancip TZ 500mg/600mg Tablet,Tiniba N Tablet
+Chronic Kidney Disease,Kerendia Tablet,,,,
+Chronic Obstructive Pulmonary Disease (COPD),Combihale FB 400 Inhaler,Budamate 100 Transhaler,Airz-FF Capsule,Foracort 1mg Respules 2ml,Vent FB 6 mcg/100 mcg Capsule
+Cirrhosis,,,,,
+Colorectal Cancer,,,,,
+Common Cold,,,,,
+Conjunctivitis (Pink Eye),,,,,
+Coronary Artery Disease,,,,,
+Crohn's Disease,,,,,
+Cystic Fibrosis,,,,,
+Dementia,,,,,
+Dengue Fever,,,,,
+Depression,,,,,
+Diabetes,Zita-D Tablet,Forxiben 10mg Tablet,Dapazee 10 Tablet,Biflozin 5 Tablet,Dapavel 5mg Tablet
+Diverticulitis,,,,,
+Down Syndrome,,,,,
+"Eating Disorders (Anorexia,...",,,,,
+Ebola Virus,,,,,
+Eczema,,,,,
+Endometriosis,,,,,
+Epilepsy,,,,,
+Esophageal Cancer,,,,,
+Fibromyalgia,,,,,
+Gastroenteritis,,,,,
+Glaucoma,,,,,
+Gout,,,,,
+Hemophilia,,,,,
+Hemorrhoids,,,,,
+Hepatitis,,,,,
+Hepatitis B,,,,,
+HIV/AIDS,,,,,
+Hyperglycemia,,,,,
+Hypertension,,,,,
+Hypertensive Heart Disease,,,,,
+Hyperthyroidism,,,,,
+Hypoglycemia,,,,,
+Hypothyroidism,,,,,
+Influenza,,,,,
+Kidney Cancer,,,,,
+Kidney Disease,,,,,
+Klinefelter Syndrome,,,,,
+Liver Cancer,,,,,
+Liver Disease,,,,,
+Lung Cancer,,,,,
+Lyme Disease,,,,,
+Lymphoma,,,,,
+Malaria,,,,,
+Marfan Syndrome,,,,,
+Measles,,,,,
+Melanoma,,,,,
+Migraine,,,,,
+Multiple Sclerosis,,,,,
+Mumps,,,,,
+Muscular Dystrophy,,,,,
+Myocardial Infarction (Heart...,,,,,
+Obsessive-Compulsive Disorde...,,,,,
+Osteoarthritis,,,,,
+Osteomyelitis,,,,,
+Osteoporosis,,,,,
+Otitis Media (Ear Infection),,,,,
+Ovarian Cancer,,,,,
+Pancreatic Cancer,,,,,
+Pancreatitis,,,,,
+Parkinson's Disease,,,,,
+Pneumocystis Pneumonia (PCP),,,,,
+Pneumonia,,,,,
+Pneumothorax,,,,,
+Polio,,,,,
+Polycystic Ovary Syndrome (PCOS),,,,,
+Prader-Willi Syndrome,,,,,
+Prostate Cancer,,,,,
+Psoriasis,,,,,
+Rabies,,,,,
+Rheumatoid Arthritis,,,,,
+Rubella,,,,,
+Schizophrenia,,,,,
+Scoliosis,,,,,
+Sepsis,,,,,
+Sickle Cell Anemia,,,,,
+Sinusitis,,,,,
+Sleep Apnea,,,,,
+Spina Bifida,,,,,
+Stroke,,,,,
+Systemic Lupus Erythematosus...,,,,,
+Testicular Cancer,,,,,
+Tetanus,,,,,
+Thyroid Cancer,,,,,
+Tonsillitis,,,,,
+Tourette Syndrome,,,,,
+Tuberculosis,,,,,
+Turner Syndrome,,,,,
+Typhoid Fever,,,,,
+Ulcerative Colitis,,,,,
+Urinary Tract Infection,,,,,
+Urinary Tract Infection (UTI),,,,,
+Williams Syndrome,,,,,
+Zika Virus,,,,,
